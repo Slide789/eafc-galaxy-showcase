@@ -1,10 +1,10 @@
 # EAFC Galaxy
 
-**A custom Discord community bot with support workflows, moderation, and administration tools.**
+**A custom Discord community bot, with support workflows, moderation, and administration tools.**
 
-EAFC Galaxy brings recurring community-management tasks into one system: helping members get support, managing applications, assigning roles, and giving administrators tools to manage the bot.
+EAFC Galaxy is a custom built Discord bot focused on recurring community-management tasks, providing support to members, handling applications, roles, and offering administration and moderation tools for the community managers.
 
-> This repository is a project showcase. The source code is private and is not distributed here.
+> This repository serves as a showcase for the project, and the source code is private and not shared here.
 
 ## Project at a glance
 
@@ -12,11 +12,11 @@ EAFC Galaxy brings recurring community-management tasks into one system: helping
 | --- | --- |
 | Platform | Discord |
 | Core technology | Python and discord.py |
-| Data storage | PostgreSQL through Supabase |
+| Database | PostgreSQL through Supabase |
 | Administration | Local administration and hosting tools |
 | Source availability | Private |
 
-## Core capabilities
+## Core features
 
 ### Support and application workflows
 
